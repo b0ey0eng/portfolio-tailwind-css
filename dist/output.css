@@ -937,44 +937,44 @@ video {
   background-color: rgb(15 23 42 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/1\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/1.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/1\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/1.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/2\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/2.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/2\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/2.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/3\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/3.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/3\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/3.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/4\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/4.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/4\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/4.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/5\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/5.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/5\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/5.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/6\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/6.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/6\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/6.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/7\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/7.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/7\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/7.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/8\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/8.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/8\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/8.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/9\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/9.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/9\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/9.jpeg');
 }
 
-.bg-\[url\(\'dist\/img\/gallery\/10\.jpeg\'\)\] {
-  background-image: url('dist/img/gallery/10.jpeg');
+.bg-\[url\(\'\/dist\/img\/gallery\/10\.jpeg\'\)\] {
+  background-image: url('/dist/img/gallery/10.jpeg');
 }
 
 .fill-current {
