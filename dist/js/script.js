@@ -20,10 +20,10 @@ hamburger.addEventListener('click', function() {
 })
 
 
-const slider = document.querySelector(".slider1")
+const slider = document.querySelector(".slider")
 const nextBtn = document.querySelector(".next-btn");
 const prevBtn = document.querySelector(".prev-btn");
-const slides = document.querySelectorAll(".slide1");
+const slides = document.querySelectorAll(".slide");
 const slideIcons = document.querySelectorAll(".slide-icon");
 const numberOfSlides = slides.length;
 var slideNumber = 0;
@@ -94,15 +94,3 @@ slider.addEventListener('mouseover',() => {
 slider.addEventListener('mouseout',() => {
     repeater();
 });
-
-
-
-// slider automatic
-var counter = 1;
-setInterval(function(){
-    document.getElementById('radio'+counter).checked = true;
-    counter++;
-    if(counter>4)  {
-        counter=1;
-    }
-},5000);
